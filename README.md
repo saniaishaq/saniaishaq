@@ -32,7 +32,7 @@ technologies.
 
 • Optimized performance, SEO, and scalability for high-traffic event registrations.
 
-3CX Telephony Integration & Speech Analytics Platform Dubai, UAE
+**3CX Telephony Integration & Speech Analytics Platform Dubai, UAE**
 
 • Led end-to-end development of a Laravel call recording & transcription system for a government call center.
 
