@@ -6,7 +6,7 @@ Senior PHP & Laravel Architect
 
 Senior Web Applications Architect with 12+ years of experience designing and deploying high-volume transaction systems for fintech, auction, and e-commerce platforms. Expert in PHP, Laravel, CodeIgniter and MySQL with a strong focus on API integrations, security and performance optimization. Proven team lead who drives projects from ideation to deployment.
 
-Online Auction Platform Dubai, UAE
+**Online Auction Platform Dubai, UAE**
 
 • Developed and maintained a scalable multilingual auction platform with real-time bidding and auto-bidding
 
@@ -14,7 +14,7 @@ features.
 
 • Implemented secure payment integrations and user activity tracking using Laravel, PHP, and MySQL.
 
-UAE SWAT Challenge Platforms Dubai, UAE
+**UAE SWAT Challenge Platforms Dubai, UAE**
 
 • Built and deployed high-scale event platforms supporting large international participation and live registrations.
 
@@ -24,7 +24,7 @@ UAE SWAT Challenge Platforms Dubai, UAE
 
 technologies.
 
-Great Minds Event Platforms (Multiple) MENA Region
+**Great Minds Event Platforms (Multiple) MENA Region**
 
 • Developed and managed multiple event websites including Asset Integrity, DFUI, HR Forum, and CFO Connect.
 
